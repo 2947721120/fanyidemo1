@@ -1,5 +1,5 @@
 ﻿/**
- * INSPINIA - Responsive Admin Theme
+ *角已翻译演示
  *
  */
 function config($translateProvider) {
@@ -7,7 +7,7 @@ function config($translateProvider) {
     $translateProvider
         .translations('en', {
 
-            // Define all menu elements
+            //定义所有菜单元素
             DASHBOARD: 'Dashboard',
             GRAPHS: 'Graphs',
             MAILBOX: 'Mailbox',
@@ -37,7 +37,7 @@ function config($translateProvider) {
         })
             .translations('zh_cn', {
 
-            // Define all menu elements
+            //定义所有菜单元素
             DASHBOARD: '仪表盘',
             GRAPHS: '图型',
             MAILBOX: '邮箱',
@@ -66,7 +66,7 @@ function config($translateProvider) {
         })
         .translations('es', {
 
-            // Define all menu elements
+            //定义所有菜单元素
             DASHBOARD: 'Salpicadero',
             GRAPHS: 'Gráficos',
             MAILBOX: 'El correo',
@@ -93,10 +93,10 @@ function config($translateProvider) {
             DEMO: 'Internacionalización (a veces abreviado como \"I18N, que significa\" I - dieciocho letras N \") es el proceso de planificación e implementación de productos y servicios de manera que se pueden adaptar fácilmente a las lenguas y culturas locales específicas, un proceso llamado localización El proceso de internacionalización. a veces se llama la traducción o la habilitación de localización.'
         });
 
-    $translateProvider.preferredLanguage('en');//默认语言
+    $translateProvider.preferredLanguage('zh_cn');//默认语言
 
 }
 
 angular
-    .module('inspinia')
+    .module('myapp')
     .config(config)

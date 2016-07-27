@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Impreza and Zephyr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: Wed Jul 27 2016 09:15:42 GMT+0800 (中国标准时间)\n"
+"PO-Revision-Date: Wed Jul 27 2016 09:24:37 GMT+0800 (中国标准时间)\n"
 "Last-Translator: admin <2947721120@qq.com>\n"
 "Language-Team: \n"
 "Language: Chinese (China)\n"
@@ -33,7 +33,7 @@ msgstr ""
 #: themes/Zephyr/framework/plugins-support/js_composer/map/vc_tta_tabs.php:54
 #, c-format
 msgid "Examples: %s"
-msgstr ""
+msgstr "例子：%s"
 
 #: framework/admin/functions/dashboard.php:82
 #: themes/Impreza/framework/admin/functions/dashboard.php:82
@@ -42,7 +42,7 @@ msgstr ""
 msgid ""
 "%s comes with popular premium plugins which greatly increase possibilities "
 "of the theme. You can use them for free!"
-msgstr ""
+msgstr "%s 配备了流行的溢价插件，极大地提高了主题可能性。您可以使用它们是免费的！"
 
 #: framework/admin/functions/dashboard.php:101
 #: themes/Impreza/framework/admin/functions/dashboard.php:101
@@ -73,7 +73,7 @@ msgstr "您可以在管理许可证<a href=\"%s\" target=\"_blank\">官方支持
 #: themes/Zephyr/framework/config/theme-options.php:1684
 #, c-format
 msgid "Heading %d"
-msgstr ""
+msgstr "标题 %d"
 
 #: framework/config/header-settings.php:334
 #: themes/Impreza/framework/config/header-settings.php:334
@@ -225,7 +225,7 @@ msgstr "保证金片上"
 #: plugins/us-header-builder/vendor/usof/templates/fields/header_builder.php:255
 #, c-format
 msgid "<a href=\"%s\">Activate the theme</a> to unlock Header Builder"
-msgstr ""
+msgstr "<a href=\"%s\">激活主题</a>解锁头生成器"
 
 #: themes/Impreza/functions/meta-box_settings.php:224
 #: themes/Impreza/functions/meta-box_settings.php:255
@@ -316,6 +316,8 @@ msgid ""
 "your site. You can use JS code with &lt;script&gt;&lt;/script&gt; tags. Also "
 "you can add Google Analytics or other tracking code into this field."
 msgstr ""
+"在这里贴上您的自定义代码，它将被添加到您的网站的页脚部分。您可以使用JS代码&lt;script&gt;&lt;/script&gt; tags."
+"您还可以添加谷歌Analytics（分析）或其他跟踪代码插入到这个领域。"
 
 #: themes/Zephyr/config/style-schemes.php:11
 msgid "Purple White"
@@ -341,19 +343,19 @@ msgstr "湿石"
 #: themes/Impreza/framework/config/theme-options.php:321
 #: themes/Zephyr/framework/config/theme-options.php:321
 msgid "Change <strong>Main Menu</strong> colors"
-msgstr ""
+msgstr "更改 <strong>主菜单</strong> 颜色"
 
 #: framework/config/theme-options.php:402
 #: themes/Impreza/framework/config/theme-options.php:402
 #: themes/Zephyr/framework/config/theme-options.php:402
 msgid "Change <strong>Content</strong> colors"
-msgstr ""
+msgstr "更改 <strong>内容</strong> 颜色"
 
 #: framework/config/theme-options.php:494
 #: themes/Impreza/framework/config/theme-options.php:494
 #: themes/Zephyr/framework/config/theme-options.php:494
 msgid "Change <strong>SubFooter</strong> colors"
-msgstr ""
+msgstr "更改 <strong>子页脚</strong> 颜色"
 
 #: framework/config/theme-options.php:560
 #: themes/Impreza/framework/config/theme-options.php:560
@@ -525,7 +527,7 @@ msgstr "没有评论"
 #: themes/Zephyr/framework/templates/widgets/comments.php:42
 #, c-format
 msgid "You must be %slogged in%s to post a comment."
-msgstr ""
+msgstr "你需要 %登陆%s 发表评论。"
 
 #: framework/admin/functions/demo-import.php:23
 #: themes/Impreza/framework/admin/functions/demo-import.php:23
@@ -538,12 +540,13 @@ msgstr "请耐心等待，而导入以&nbsp不要导航离开此页面;进展。
 #: framework/admin/functions/demo-import.php:44
 #: themes/Impreza/framework/admin/functions/demo-import.php:44
 #: themes/Zephyr/framework/admin/functions/demo-import.php:44
-#, fuzzy
 #, c-format
 msgid ""
 "Now you can see the result at <a href=\"%s\" target=\"_blank\">your site</a><br> "
 "or start customize via <a href=\"%s\">Theme Options</a>."
-msgstr "现在你可以看到在"
+msgstr ""
+"现在你可以看到在<a href=\"%s\" target=\"_blank\">您的网站</a><br> 或开始通过定制<a "
+"href=\"%s\">主题选项</a>."
 
 #: framework/admin/functions/demo-import.php:121
 #: themes/Impreza/framework/admin/functions/demo-import.php:121
@@ -589,7 +592,7 @@ msgstr "随着小差距"
 msgid ""
 "Background Image, Background Video, Background Overlay settings located "
 "below will override the settings located at \"Background\" and \"Effect\" tabs."
-msgstr ""
+msgstr "背景图片，背景视频，下方背景叠加设置将覆盖位于“背景”和“效果”选项卡中的设置。"
 
 #: framework/plugins-support/js_composer/map/us_gallery.php:13
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_gallery.php:13
@@ -837,7 +840,7 @@ msgstr "导航箭头"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_image_slider.php:31
 #: themes/Zephyr/framework/plugins-support/js_composer/map/us_image_slider.php:31
 msgid "Show always"
-msgstr ""
+msgstr "始终显示"
 
 #: framework/plugins-support/js_composer/map/us_image_slider.php:32
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_image_slider.php:32
@@ -952,7 +955,7 @@ msgstr "在该节的内容区域删除垫"
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_iconbox.php:14
 #: themes/Zephyr/framework/plugins-support/js_composer/map/us_iconbox.php:14
 msgid "IconBox"
-msgstr ""
+msgstr "图标盒"
 
 #: framework/plugins-support/js_composer/map/us_iconbox.php:65
 #: themes/Impreza/framework/plugins-support/js_composer/map/us_iconbox.php:65
@@ -1349,103 +1352,105 @@ msgstr "超薄100"
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:75
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:75
 msgid "Thin 100 Italic"
-msgstr ""
+msgstr "Thin 100 Italic"
 
 #: framework/vendor/usof/templates/fields/font.php:76
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:76
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:76
 msgid "Extra-Light 200"
-msgstr ""
+msgstr "Extra-Light 200"
 
 #: framework/vendor/usof/templates/fields/font.php:77
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:77
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:77
 msgid "Extra-Light 200 Italic"
-msgstr ""
+msgstr "Extra-Light 200 Italic"
 
 #: framework/vendor/usof/templates/fields/font.php:78
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:78
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:78
 msgid "Light 300"
-msgstr ""
+msgstr "Light 300"
 
 #: framework/vendor/usof/templates/fields/font.php:79
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:79
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:79
 msgid "Light 300 Italic"
-msgstr ""
+msgstr "Light 300 Italic"
 
 #: framework/vendor/usof/templates/fields/font.php:80
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:80
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:80
 msgid "Normal 400"
-msgstr ""
+msgstr "Normal 400"
 
 #: framework/vendor/usof/templates/fields/font.php:81
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:81
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:81
 msgid "Normal 400 Italic"
-msgstr ""
+msgstr "Normal 400 Italic"
 
 #: framework/vendor/usof/templates/fields/font.php:82
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:82
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:82
 msgid "Medium 500"
-msgstr ""
+msgstr "Medium 500"
 
 #: framework/vendor/usof/templates/fields/font.php:83
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:83
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:83
 msgid "Medium 500 Italic"
-msgstr ""
+msgstr "Medium 500 Italic"
 
 #: framework/vendor/usof/templates/fields/font.php:84
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:84
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:84
 msgid "Semi-Bold 600"
-msgstr ""
+msgstr "Semi-Bold 600"
 
 #: framework/vendor/usof/templates/fields/font.php:85
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:85
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:85
 msgid "Semi-Bold 600 Italic"
-msgstr ""
+msgstr "Semi-Bold 600 Italic"
 
 #: framework/vendor/usof/templates/fields/font.php:86
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:86
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:86
 msgid "Bold 700"
-msgstr ""
+msgstr "Bold 700"
 
 #: framework/vendor/usof/templates/fields/font.php:87
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:87
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:87
 msgid "Bold 700 Italic"
-msgstr ""
+msgstr "Bold 700 Italic"
 
 #: framework/vendor/usof/templates/fields/font.php:88
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:88
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:88
 msgid "Extra-Bold 800"
-msgstr ""
+msgstr "Extra-Bold 800"
 
 #: framework/vendor/usof/templates/fields/font.php:89
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:89
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:89
 msgid "Extra-Bold 800 Italic"
-msgstr ""
+msgstr "Extra-Bold 800 Italic"
 
 #: framework/vendor/usof/templates/fields/font.php:90
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:90
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:90
 msgid "Ultra-Bold 900"
-msgstr ""
+msgstr "Ultra-Bold 900"
 
 #: framework/vendor/usof/templates/fields/font.php:91
 #: themes/Impreza/framework/vendor/usof/templates/fields/font.php:91
 #: themes/Zephyr/framework/vendor/usof/templates/fields/font.php:91
 msgid "Ultra-Bold 900 Italic"
 msgstr ""
+"\n"
+"Ultra-Bold 900 Italic"
 
 #: framework/config/theme-options.php:1994
 #: framework/config/theme-options.php:2068
